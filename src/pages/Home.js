@@ -48,7 +48,7 @@ function Home() {
                 <hr></hr>
                 <div class="row my-3">
                     <p class="text-xl font-bold mb-2 text-center">Our board</p>
-                    <div class="grid grid-rows-2 grid-cols-3 gap-4">
+                    <div class="grid xl:grid-rows-2 xl:grid-cols-3 gap-4 lg:grid-rows-3 lg:grid-cols-2 md:grid-rows-6 md:grid-cols-1">
                     <div class="p-3 bg-white border border-gray-200 rounded-lg shadow0 text-center">
                             <a href="#">
                                 <h2 class="mb-2 text-xl font-bold tracking-tight text-gray-90">Alex Ning</h2>
