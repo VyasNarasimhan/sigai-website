@@ -43,7 +43,19 @@ function Home() {
                 <div class="row my-3" id="about">
                     <p class="text-xl font-bold mb-2 text-center">About</p>
                     <p class="text-md mb-1 font-normal text-gray-700"><b>Our Goal: </b>Become the all-in-one, comprehensive AI club at UVA.</p>
-                    <p class="text-md mb-1 font-normal text-gray-700"><b>Our Mission for our Members: </b>Become the all-in-one, comprehensive AI club at UVA.</p>
+                    <p class="text-md mb-1 font-normal text-gray-700"><b>Our Mission for our Members: </b>Enhance AI accessibility and engagement for <span class="italic">all</span> students through academic and expeiential opportunities</p>
+                    <ul class="ml-2 space-y-1 text-gray-700 list-disc list-inside mb-1">
+                        <li>
+                            <b>Events:</b> Hackathon, faculty networking, skill-building collaborations.
+                        </li>
+                        <li>
+                            <b>Education:</b> Guest talks, seminars, mentoring, research paper discussions, resources, research guidance.
+                        </li>
+                        <li>
+                            <b>Projects:</b> Project support, expos, and client-focused initiatives.
+                        </li>
+                    </ul>
+                    <p class="text-md mb-1 font-normal text-gray-700 italic">At SIGAI, we are member-owned and member-driven. You choose your level of involvement in the endeavors which interest you.</p>
                 </div>
                 <hr></hr>
                 <div class="row my-3">
