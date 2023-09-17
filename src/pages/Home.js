@@ -77,7 +77,7 @@ function Home() {
                         </div>
                         <div class="p-3 bg-white border border-gray-200 rounded-lg shadow0 text-center">
                             <a href="#">
-                                <h2 class="mb-2 text-xl font-bold tracking-tight text-gray-90">Anirudh Venkatapuram</h2>
+                                <h2 class="mb-2 text-xl font-bold tracking-tight text-gray-90">Ani Venkatapuram</h2>
                             </a>
                             <p class="mb-1 font-normal text-gray-700">Operations Director</p>
                             <p class="mb-1 text-sm font-normal text-gray-700 italic">qzf7nj@virginia.edu</p>
