@@ -94,14 +94,14 @@ function Home() {
                                 <h2 class="mb-2 text-xl font-bold tracking-tight text-gray-90">Raffi Khondaker</h2>
                             </a>
                             <p class="mb-1 font-normal text-gray-700">Projects Director</p>
-                            <p class="mb-1 text-sm font-normal text-gray-700 italic">wvy8je@virginia.edu</p>
+                            <p class="mb-1 text-sm font-normal text-gray-700 italic">rhm4nj@virginia.edu</p>
                         </div>
                         <div class="p-3 bg-white border border-gray-200 rounded-lg shadow0 text-center">
                             <a href="#">
                                 <h2 class="mb-2 text-xl font-bold tracking-tight text-gray-90">Vyas Narasimhan</h2>
                             </a>
                             <p class="mb-1 font-normal text-gray-700">Events Director</p>
-                            <p class="mb-1 text-sm font-normal text-gray-700 italic">wsg9mf@virginia.edu</p>
+                            <p class="mb-1 text-sm font-normal text-gray-700 italic">wvy8je@virginia.edu</p>
                         </div>
                     </div>
                 </div>
