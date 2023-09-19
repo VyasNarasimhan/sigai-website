@@ -4,7 +4,7 @@ function Home() {
 	return (
 		<div class="container">
 			<nav class="bg-gray-200 border-gray-200">
-				<div class="flex flex-wrap justify-between items-center p-4 mx-2">
+				<div class="flex flex-wrap justify-between items-center p-4">
 					<a href="#" class="flex items-center">
 						<img src={logo} class="h-8 mr-3" alt="SIGAI Logo" />
 						<span class="self-center text-2xl font-semibold whitespace-nowrap">SIGAI</span>
