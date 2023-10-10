@@ -109,6 +109,7 @@ function Home() {
                 <div class="row my-3">
                     <p class="text-xl font-bold mb-2 text-center">Resources</p>
                     <p class="text-md mb-1 font-normal text-gray-700 text-center">Join the ACM Discord <a class="text-blue-600 hover:underline" href="https://discord.com/invite/wxWgbVs" target="_blank" rel="noreferrer">here</a>.</p>
+                    <p class="text-md mb-1 font-normal text-gray-700 text-center">Join the SIGAI Discord <a class="text-blue-600 hover:underline" href="https://discord.gg/pNQJ4mubwh" target="_blank" rel="noreferrer">here</a>.</p>
                 </div>
 			</div>
             <footer class="bg-gray-200 rounded-lg shadow m-4">
